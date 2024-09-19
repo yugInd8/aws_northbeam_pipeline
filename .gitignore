@@ -1,2 +1,12 @@
 #virtual env
-/nbap
+nbap/
+
+#config files :
+config/
+
+#test run outputs 
+meta_d.csv
+viome_spend_2024-01-01.csv
+
+#pycache
+__pycache__/
