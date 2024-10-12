@@ -1,4 +1,4 @@
-# Automated Airflow Pipeline for Northbeam API
+# Modularised the data pipeline to get data from Northbeam and load relevent fields in Redshift
 
 ## Overview
 
